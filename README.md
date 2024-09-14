@@ -1,13 +1,32 @@
-- 👋 Hi, <h1>Hi, I'm Bambo! <br/><a href="https://github.com/packagedata">Data Analyst</a>, <a href="https://www.linkedin.com/in/olabambooladipo/">Data Scientist</a>, <a href="https://www.youtube.com/c/joshmadakor">Data entry</a></h1>
+<h1>Hi, I'm Bambo! <br/><a href="https://github.com/packagedata">Data Analyst</a>, <a href="https://www.linkedin.com/in/olabambooladipo/">Data Scientist</a>, <a href="https://www.youtube.com/c/joshmadakor">Data entry</a></h1>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2>👨‍💻 Data Analytics:</h2>
 
-<!---
-packagedata/packagedata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <b>Excel</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  -
+  - 
+- <b>SQL</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - -
+  - 
+- <b>Python</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - -
+  - 
+- <b>Tableau</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - -
+- <b>PowerBI</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - -
+  - 
+- <b>R Programming</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - -
+  - 
+ 
+<h2>👨‍💻 Data Scientist (Cooming Soon):</h2>
+ 
+
+
