@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics:</h2>
 
 - <b>Excel</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Interactive Cookie Sales Report](https://github.com/packagedata/Excel-Projects/blob/main/Excel%20Interactive%20Dashboard%20for%20porfolio.xlsx)
   -
   - 
 - <b>SQL</b>
