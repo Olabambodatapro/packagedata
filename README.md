@@ -11,7 +11,7 @@
   - -
   - 
 - <b>Python</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Perform customer segmentation using clustering techniques.](https://github.com/packagedata/Customer-Segmentation-using-K-Means-Clustering.git)
   - -
   - 
 - <b>Tableau</b>
