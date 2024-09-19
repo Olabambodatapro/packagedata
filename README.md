@@ -11,7 +11,7 @@
   - -
   - 
 - <b>Python</b>
-  - [Perform customer segmentation using clustering techniques.](https://github.com/packagedata/Customer-Segmentation-using-K-Means-Clustering.git)
+  - [Perform customer segmentation using clustering techniques.](https://github.com/packagedata/Customer-Segmentation-using-K-Means-Clustering-python---Data-Analyst-.git)
   - -
   - 
 - <b>Tableau</b>
