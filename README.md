@@ -18,7 +18,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - 
 - <b>R Programming</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Soil moisture analysis in Colorado](https://github.com/packagedata/Soil-moisture-analysis-in-Colorado--R-programming-Data-Analyst.git)
   - -
   - 
  
