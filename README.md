@@ -7,7 +7,7 @@
   -
   - 
 - <b>SQL</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Amazon E-commerce sales analysis](https://github.com/packagedata/Amazon-E-commerce-sales-analysis--SQL-Data-Analyst.git)
   - -
   - 
 - <b>Python</b>
