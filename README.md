@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bambo! <br/><a href="https://github.com/packagedata">Data Analyst</a>, <a href="https://www.linkedin.com/in/olabambooladipo/">Data Scientist</a>, <a href="https://www.youtube.com/c/joshmadakor">Data entry</a></h1>
+<h1>Hi, I'm Bambo! <br/><a href="https://github.com/packagedata">Data Analyst</a>, <a href="https://www.linkedin.com/in/olabambooladipo/">Data Scientist</a></h1>
 
 <h2>👨‍💻 Data Analytics:</h2>
 
