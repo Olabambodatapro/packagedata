@@ -15,7 +15,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - 
 - <b>PowerBI</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Power BI dashboard tracking key metrics of a supply chain](https://github.com/packagedata/Power-BI-dashboard-tracking-key-metrics-of-a-supply-chain-Power-BI-Project.git)
   - 
 - <b>R Programming</b>
   - [Soil moisture analysis in Colorado](https://github.com/packagedata/Soil-moisture-analysis-in-Colorado--R-programming-Data-Analyst.git)
