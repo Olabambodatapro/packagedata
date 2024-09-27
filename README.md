@@ -1,6 +1,6 @@
 <h1>Hi, I'm Bambo! <br/><a href="https://github.com/packagedata">Data Analyst</a>, <a href="https://github.com/packagedata">Business Aanalyst</a>, <a href="https://github.com/packagedata">Business Intelligence Analyst</a>, <a href="https://www.linkedin.com/in/olabambooladipo/">Data Scientist</a></h1>
 
-<h2>👨‍💻 Data Analytics:</h2>
+<h2>👨‍💻 Data, Business, and Business Intelligence Analytics:</h2>
 
 - <b>Excel</b>
   - [Interactive Cookie Sales Report](https://github.com/packagedata/Excel-Projects/blob/main/Excel%20Interactive%20Dashboard%20for%20porfolio.xlsx)
