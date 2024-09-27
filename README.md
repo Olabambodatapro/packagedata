@@ -11,7 +11,7 @@
 - <b>Tableau</b>
   - [Financial performance dashboard in Tableau (Excel and Tableau)](https://github.com/packagedata/financial-performance-dashboard-in-Tableau-Data-Analyst.git)
 - <b>PowerBI</b>
-  - [Power BI dashboard tracking key metrics of a supply chain](https://github.com/packagedata/Power-BI-dashboard-tracking-key-metrics-of-a-supply-chain-Power-BI-Project.git)
+  - [Power BI dashboard tracking key metrics of a supply chain(SQL and Power BI)](https://github.com/packagedata/Power-BI-dashboard-tracking-key-metrics-of-a-supply-chain-Power-BI-Project.git)
 - <b>R Programming</b>
   - [Soil moisture analysis in Colorado](https://github.com/packagedata/Soil-moisture-analysis-in-Colorado--R-programming-Data-Analyst.git)
  
