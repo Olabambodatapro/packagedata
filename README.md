@@ -4,6 +4,7 @@
 
 - <b>Excel</b>
   - [Interactive Cookie Sales Report](https://github.com/packagedata/Excel-Projects/blob/main/Excel%20Interactive%20Dashboard%20for%20porfolio.xlsx)
+  - [Business Process Optimization for a Retail Store- Business Analyst](https://github.com/packagedata/Business-Process-Optimization-for-a-Retail-Store-Business-Analyst.git)
 - <b>SQL</b>
   - [Amazon E-commerce sales analysis](https://github.com/packagedata/Amazon-E-commerce-sales-analysis--SQL-Data-Analyst.git)
 - <b>Python</b>
