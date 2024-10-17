@@ -18,6 +18,7 @@
   - [Data analyst - Soil moisture analysis in Colorado](https://github.com/packagedata/Soil-moisture-analysis-in-Colorado--R-programming-Data-Analyst.git)
  
 <h2>👨‍💻 Data Scientist:</h2>
+ 
  - [RFM-Customer-Segmentation-Churn-Analysis-with-Power-BI](https://github.com/packagedata/Data-Scientist-RFM-Customer-Segmentation-Churn-Analysis-with-Power-BI.git)
 
 
